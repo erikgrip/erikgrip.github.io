@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
-[Fetch Chess Data](/sample_page)
+[Fetch Chess Data](https://erikgrip.github.io/fetch_chess_data/)
 <img src="images/fetch_chess_data.png?raw=true"/>
 
 ---
