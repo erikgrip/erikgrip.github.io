@@ -8,8 +8,8 @@
 <img src="images/fetch_chess_data.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Blitz Chess Prediction](https://erikgrip.github.io/chess_prediction/)
+<img src="images/chess_prediction.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
