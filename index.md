@@ -2,18 +2,14 @@
 
 ---
 
-### Data Science Projects
+### Chess Projects
 
-[Fetch Chess Data](https://erikgrip.github.io/fetch_chess_data/)
-<img src="images/fetch_chess_data.png?raw=true"/>
+[Chess Dashboard](https://erikgrip.github.io/chess_dashboard/)
+<img src="images/chess_dashboard.png?raw=true"/>
 
 ---
 [Blitz Chess Prediction](https://erikgrip.github.io/chess_prediction/)
 <img src="images/chess_prediction.png?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
