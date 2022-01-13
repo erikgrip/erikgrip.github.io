@@ -15,8 +15,8 @@
 
 ### Reinforcement Learning
 
-- [Deep Q Model Playing Tic Tac Toe](https://erikgrip.github.io/tictactoe_reinforcement_learning
-
+[Deep Q Model Playing Tic Tac Toe](https://erikgrip.github.io/tictactoe_reinforcement_learning/)
+<img src="images/tictactoe_tensorboard.png?raw=true"/>
 ---
 
 
