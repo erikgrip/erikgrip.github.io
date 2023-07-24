@@ -12,7 +12,7 @@
 ### Supervised Learning
 
 [Fine tune a Large Language Model (LLM) to suggest motion titles](https://github.com/erikgrip/swedish_parliament_motion_summarization)
-<img src="images/motion_title_generator.png?raw=true"/>
+<img src="images/motion_title_generator.jpg?raw=true"/>
 
 [Blitz Chess Prediction](https://erikgrip.github.io/chess_prediction/)
 <img src="images/chess_prediction.png?raw=true"/>
