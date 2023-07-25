@@ -15,14 +15,14 @@
 <img src="images/motion_title_generator.jpg?raw=true"/>
 
 [Blitz Chess Prediction](https://erikgrip.github.io/chess_prediction/)
-<img src="images/chess_prediction.png?raw=true"/>
+<img src="images/chess_robot.jpg?raw=true"/>
 
 ---
 
 ## Data Visualisation
 
 [Chess Dashboard](https://erikgrip.github.io/chess_dashboard/)
-<img src="images/chess_dashboard.png?raw=true"/>
+<img src="images/chess_dashboard.png?raw=true" />
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
