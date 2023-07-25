@@ -7,7 +7,7 @@
 ### Reinforcement Learning
 
 [Deep Q Model Playing Tic Tac Toe](https://erikgrip.github.io/tictactoe_reinforcement_learning/)
-<img src="images/tictactoe_tensorboard.png?raw=true"/>
+<img src="images/tic_tac_toe_robot.jpg?raw=true"/>
 
 ### Supervised Learning
 
