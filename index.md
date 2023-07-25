@@ -30,4 +30,6 @@ Downloads a player's data from Chess.com and visualizes agregated data in a Dash
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">Project images created at <a href="https://stablediffusionweb.com/">Stable Diffusion Online</a></p>
+<!-- Remove above line if you don't want to attibute -->
+
