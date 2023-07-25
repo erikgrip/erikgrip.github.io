@@ -2,7 +2,7 @@
 
 ---
 
-## ML
+## Machine Learning
 
 ### Reinforcement Learning
 
@@ -11,7 +11,8 @@
 
 ### Supervised Learning
 
-[Fine tune a Large Language Model (LLM) to suggest motion titles](https://github.com/erikgrip/swedish_parliament_motion_summarization)
+[Motion Title Generation](https://github.com/erikgrip/swedish_parliament_motion_summarization)
+This project fine-tunes a language model to suggest titles for Swedish parliament motions, and provides a simple web app to serve predictions. It is built using Python 3, Pytorch, PyTorch Lightning. The training data comes from the Swedish Parliament's open data.
 <img src="images/motion_title_generator.jpg?raw=true"/>
 
 [Blitz Chess Prediction](https://erikgrip.github.io/chess_prediction/)
