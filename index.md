@@ -23,7 +23,7 @@ This project involves training a deep reinforcement learning model to devise a w
 ### MLOps
 
 **[GCP Vertex AI online Feature Store](https://github.com/erikgrip/terraform-vertexai-feature-store/)**  
-This project provides a simple and automated way to set up a feature store using Google Cloud's VertexAI and Terraform. A feature store is a critical component in the machine learning lifecycle, enabling consistent storage, management, and access to feature data for training and serving models. By using Terraform, we ensure that the infrastructure setup is reproducible and manageable as code.
+This project provides a simple and automated way to set up a feature store in Google Cloud Platform (GCP). A feature store is an important component in the machine learning lifecycle, enabling consistent storage, management, and access to feature data for training and serving models. By using Terraform, we ensure that the infrastructure setup is reproducible and manageable as code.
 ![Terraform VertexAI Feature Store](images/terraform_vertexai_feature_store.jpg?raw=true)
 
 ---
