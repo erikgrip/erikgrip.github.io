@@ -2,14 +2,9 @@
 
 ---
 
-## Machine Learning
+## Machine Learning and MLOps
 
 ### Large Language Models
-
-**[Langchain Documentation Chatbot](https://github.com/erikgrip/langchain_docs_chatbot)**  
-This project involves the development of a chatbot application capable of answering queries about the Python package Langchain. The application retrieves information about Langchain from a vector store loaded with markdown files from Langchain's Github repository.
-![Langchain Documentation Chatbot](images/langchain_docs_chatbot.jpg?raw=true)
-
 
 **[Motion Title Generation](https://github.com/erikgrip/swedish_parliament_motion_summarization)**  
 This project involves fine-tuning a language model to suggest titles for Swedish parliament motions. It also includes a simple web application to serve predictions. The project utilizes Python 3, Pytorch, and PyTorch Lightning. The training data is sourced from the Swedish Parliament's open data.
@@ -27,7 +22,17 @@ This project involves training a deep reinforcement learning model to devise a w
 This project involves training a model to predict the outcomes of blitz chess games. The entire process, from exploratory data analysis (EDA) to the export of a fitted logistic regression classifier, is documented in a series of Jupyter Lab notebooks.
 ![Blitz Chess Prediction](images/chess_prediction.jpg?raw=true)
 
+### GCP Vertex AI online Feature Store
+This project provides a simple and automated way to set up a feature store using Google Cloud's VertexAI and Terraform. A feature store is a critical component in the machine learning lifecycle, enabling consistent storage, management, and access to feature data for training and serving models. By using Terraform, we ensure that the infrastructure setup is reproducible and manageable as code.
+![Terraform VertexAI Feature Store](images/terraform_vertexai_feature_store.jpg?raw=true)
+
 ---
+
+## Chat Bots
+
+**[Langchain Documentation Chatbot](https://github.com/erikgrip/langchain_docs_chatbot)**  
+This project involves the development of a chatbot application capable of answering queries about the Python package Langchain. The application retrieves information about Langchain from a vector store loaded with markdown files from Langchain's Github repository.
+![Langchain Documentation Chatbot](images/langchain_docs_chatbot.jpg?raw=true)
 
 ## Data Visualization Projects
 
